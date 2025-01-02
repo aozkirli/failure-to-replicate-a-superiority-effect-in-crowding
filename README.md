@@ -1,5 +1,12 @@
 # failure-to-replicate-the-superiority-effect-in-crowding
-The dataset failing to replicate the findings in Cicchini et al. 2022 (Nature Communications)
+
+
+## Attribution and Citation
+This dataset accompanies the following publication:
+REF
+If you use this dataset, please cite the article as follows:
+REF
+
 
 The csv file includes cleaned "error" variable, along with raw data (participantid, condition, block, reliabilityT, reliabilityF, theta, resp, rt, flankerMinusTarget). The variables represent:
 - participantid : unique identifier for the participants
