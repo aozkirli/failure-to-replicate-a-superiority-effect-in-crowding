@@ -2,12 +2,10 @@
 
 
 ## Attribution and Citation
-This dataset accompanies the following publication:
-REF
-If you use this dataset, please cite the article as follows:
-REF
+This dataset accompanies the study entitled "Failure to replicate the superiority effect in crowding." by Ozkirli, A., Pascucci, D., & Herzog, M.H. (2025). 
+If you use this dataset, please cite the article properly.
 
-
+## variables
 The csv file includes cleaned "error" variable, along with raw data (participantid, condition, block, reliabilityT, reliabilityF, theta, resp, rt, flankerMinusTarget). The variables represent:
 - participantid : unique identifier for the participants
 - condition: flanked (vertical_2-flanker) or unflanked (vertical_0-flanker)
