@@ -1,4 +1,4 @@
-# failure-to-replicate-the-superiority-effect-in-crowding
+# failure-to-replicate-a-superiority-effect-in-crowding
 
 
 ## Attribution and Citation
